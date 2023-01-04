@@ -11,7 +11,7 @@ var data_polar = [];
     data_polar.data = [1.308, 5.188, 7.118, 2.706, 9.5, 3.468];
     data_polar.labels = ['Optic', 'Laser', 'Maser', 'Theorist', 'Lens', 'Other'];
 var backgroundColor = [
-    'rgba(216, 27, 96, 0.6)',
+    'rgba(111, 27, 96, 0.6)',
     'rgba(3, 169, 244, 0.6)',
     'rgba(255, 152, 0, 0.6)',
     'rgba(29, 233, 182, 0.6)',
